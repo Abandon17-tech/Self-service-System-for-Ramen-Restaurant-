@@ -1,0 +1,57 @@
+[Dish]
+name1:Ramen
+price1:10.9
+[Dish end]
+
+[Option1]
+name:Soup
+1(1):Tonkotsu 
+2(1):Shoyu 
+3(1):Shio 
+[Option1 end] 
+
+
+[Option2]
+name:Noodles 
+1(1):Soft 
+2(0):Medium 
+3(1):Firm
+[Option2 end]
+
+
+[Option3] 
+name:Spring onion 
+1(1):No 
+2(1):please Just a little 
+3(1):A lot! 
+[Option3 end]
+
+[Option4]
+name:Spiciness 
+1(1):0 (No) 
+2(1):1 
+3(1):2 
+4(1):3 
+5(1):4 
+6(1):5 (Max) 
+[Option4 end]
+
+[Add-ons]
+name1:Extra Nori
+option11(1):Yes1
+option12(0):No1
+price1:1
+name2:Extra boiled egg
+option21(0):Yes2
+option22(1):No2
+price2:1
+name3:Bamboo shoots
+option31(1):Yes3
+option32(1):No3
+price3:1
+name4:Extra Chashu
+option41(1):Yes4
+option42(1):No4
+price4:2
+[Add-ons end]
+

@@ -1,0 +1,32 @@
+-------------------------------------------------
+2020-3-19 17:41:39Thursday
+Ramen:9.99
+Extra Nori :1
+Soup:Tonkotsu 
+Noodles :Soft 
+Spring onion :No 
+Nori :Yes 
+Chashu :Yes 
+Boiled egg :Yes 
+Spiciness :0 (No) 
+Take away
+Stamp number0
+Should pay10.99
+Need to pay10.99
+-------------------------------------------------
+-------------------------------------------------
+2020-3-19 17:41:59Thursday
+Ramen:9.99
+Extra Nori :1
+Soup:Tonkotsu 
+Noodles :Soft 
+Spring onion :No 
+Nori :Yes 
+Chashu :Yes 
+Boiled egg :Yes 
+Spiciness :0 (No) 
+Take away
+Stamp number0
+Should pay10.99
+Need to pay10.99
+-------------------------------------------------
